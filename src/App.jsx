@@ -622,7 +622,7 @@ function App() {
 
   ];
 
-  const idsDosProdutosEmAlta = [1, 2, 6];
+  const idsDosProdutosEmAlta = [1, 2, 6, 7, 18, 24, 39, 52, 63, 74, 85, 97, 108, 121, 133];
   const produtosEmAlta = todosOsProdutos.filter(p => idsDosProdutosEmAlta.includes(p.id));
 
   const filteredProducts = useMemo(() => {

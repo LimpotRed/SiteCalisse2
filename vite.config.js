@@ -233,6 +233,7 @@ logger.error = (msg, options) => {
 }
 
 export default defineConfig({
+	base: '/SiteCalisse2/',
 	customLogger: logger,
 	plugins: [
 		...(isDev ? [inlineEditPlugin(), editModeDevPlugin(), iframeRouteRestorationPlugin()] : []),
