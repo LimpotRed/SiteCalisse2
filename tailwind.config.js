@@ -50,7 +50,11 @@ module.exports = {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))',
 				},
+				
 			},
+			fontFamily: {
+					sans: ['Montserrat', 'system-ui', 'sans-serif'],
+				},
 			borderRadius: {
 				lg: 'var(--radius)',
 				md: 'calc(var(--radius) - 2px)',
