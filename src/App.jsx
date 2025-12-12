@@ -982,7 +982,7 @@ function App() {
                 </div>
                 <div className="px-4 my-12">
                    <div className="aspect-[21/9] w-full max-w-6xl mx-auto rounded-2xl overflow-hidden shadow-lg">
-                        <img className="w-full h-full object-cover" alt="Banner de perfumes árabes em um fundo luxuoso" src="https://images.unsplash.com/photo-1635178792420-b90837a4e5d0" />
+                        <img className="w-full h-full object-cover" alt="Banner de perfumes árabes em um fundo luxuoso" src="https://i.ibb.co/RpMthwZ2/Chat-GPT-Image-11-de-dez-de-2025-23-42-38.png" />
                    </div>
                 </div>
               </motion.div>
