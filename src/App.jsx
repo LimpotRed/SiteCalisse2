@@ -33,12 +33,12 @@ function App() {
         "https://i.ibb.co/LzL211nw/Captura-de-tela-2025-11-03-140626.png",
     ]},
 
-    { id: 4, name: 'Asad 100ml', category: 'Perfumes', oldPrice: 'R$ 250,00', price: 'R$ 210,00', priceValue: 210.00, gender: 'Masculino', images: [
+    { id: 4, name: 'Asad 100ml', category: 'Perfumes', oldPrice: 'R$ 240,00', price: 'R$ 210,00', priceValue: 210.00, gender: 'Masculino', images: [
         "https://i.ibb.co/GvJhJQ23/IMG-20251011-WA0133.jpg",
         "https://i.ibb.co/bj2WL3DC/Captura-de-tela-2025-11-03-141036.png",
     ]},
 
-    { id: 5, name: 'Victorioso 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Masculino', images: [
+    { id: 5, name: 'Victorioso 100ml', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Masculino', images: [
         "https://i.ibb.co/7Jqz7cwz/IMG-20251011-WA0134.jpg",
         "https://i.ibb.co/bj3MHQhK/Captura-de-tela-2025-11-03-141707.png",
     ]},
@@ -67,7 +67,7 @@ function App() {
             "https://i.ibb.co/fVKdgSC6/Captura-de-tela-2025-11-04-095957.png",
         ]},
 
-    { id: 11, name: 'Yara Candy 100ml', category: 'Perfumes', oldPrice: 'R$ 250,00', price: 'R$ 200,00', priceValue: 200.00, gender: 'Feminino', images: [
+    { id: 11, name: 'Yara Candy 100ml', category: 'Perfumes', oldPrice: 'R$ 254,00', price: 'R$ 200,00', priceValue: 200.00, gender: 'Feminino', images: [
             "https://i.ibb.co/gM9xXMFM/IMG-20251011-WA0113.jpg",
             "https://i.ibb.co/d4Tm2QzK/Captura-de-tela-2025-11-04-100052.png",
         ]},
@@ -82,12 +82,12 @@ function App() {
             "https://i.ibb.co/VW4vLZTJ/image.png",
         ]},
 
-    { id: 14, name: 'Fackar Rose 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 220,00', priceValue: 220.00, gender: 'Feminino', images: [
+    { id: 14, name: 'Fakhar Rose 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 220,00', priceValue: 220.00, gender: 'Feminino', images: [
             "https://i.ibb.co/J6CbLvt/IMG-20251011-WA0116.jpg",
             "https://i.ibb.co/LzLbVsNd/image.png",
         ]},
 
-    { id: 15, name: 'Sceptre Bronzite 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Masculino', images: [
+    { id: 15, name: 'Sceptre Bronzite 100ml', category: 'Perfumes', oldPrice: 'R$ 369,00', price: 'R$ 320,00', priceValue: 320.00, gender: 'Masculino', images: [
             "https://i.ibb.co/mV5H4Vxh/IMG-20251011-WA0118.jpg",
             "https://i.ibb.co/6RMhXwTm/Captura-de-tela-2025-11-04-100509.png",
         ]},
@@ -102,7 +102,7 @@ function App() {
             "https://i.ibb.co/x8r4T0Jp/image.png",
         ]},
 
-    { id: 18, name: 'Sceptre Oceana 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Masculino', images: [
+    { id: 18, name: 'Sceptre Oceana 100ml', category: 'Perfumes', oldPrice: 'R$ 370,00', price: 'R$ 320,00', priceValue: 320.00, gender: 'Masculino', images: [
             "https://i.ibb.co/tpQDc3v9/IMG-20251011-WA0120.jpg",
             "https://i.ibb.co/xKQSXhgR/image.png",
         ]},
@@ -112,17 +112,17 @@ function App() {
             "https://i.ibb.co/tTXRpqvY/image.png",
         ]},
 
-    { id: 20, name: 'Maahir 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Unisex', images: [
+    { id: 20, name: 'Maahir 100ml', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Unisex', images: [
             "https://i.ibb.co/MDMKx6S1/IMG-20251011-WA0122.jpg",
             "https://i.ibb.co/zHPZFv38/image.png",
     ]},
 
-    { id: 21, name: 'Sceptre Amazonite 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Unisex', images: [
+    { id: 21, name: 'Sceptre Amazonite 100ml', category: 'Perfumes', oldPrice: 'R$ 370,00', price: 'R$ 320,00', priceValue: 320.00, gender: 'Unisex', images: [
             "https://i.ibb.co/9mMcnPtY/IMG-20251011-WA0123.jpg",
             "https://i.ibb.co/v4fttR11/image.png",
     ]},
 
-    { id: 22, name: 'Al Noble Ammer 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Masculino', images: [
+    { id: 22, name: 'Al Noble Ameer 100ml', category: 'Perfumes', oldPrice: 'R$ 310,00', price: 'R$ 260,00', priceValue: 260.00, gender: 'Masculino', images: [
             "https://i.ibb.co/ZpVrNX84/IMG-20251011-WA0124.jpg",
             "https://i.ibb.co/tT7QXJfx/image.png",
     ]},
@@ -142,17 +142,17 @@ function App() {
     "https://i.ibb.co/nqQkLgZG/image.png",
 ]},
 
-{ id: 26, name: 'Vulcan Sable 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Unisex', images: [
+{ id: 26, name: 'Vulcan Sable 100ml', category: 'Perfumes', oldPrice: 'R$ 430,00', price: 'R$ 380,00', priceValue: 380.00, gender: 'Unisex', images: [
     "https://i.ibb.co/j9NCZ0mF/IMG-20251011-WA0128.jpg",
     "https://i.ibb.co/PsLMTXkx/image.png",
 ]},
 
-{ id: 27, name: 'Sabah Al Ward 100ml', category: 'Perfumes', oldPrice: 'R$ 250,00', price: 'R$ 200,00', priceValue: 200.00, gender: 'Feminino', images: [
+{ id: 27, name: 'Sabah Al Ward 100ml', category: 'Perfumes', oldPrice: 'R$ 240,00', price: 'R$ 200,00', priceValue: 200.00, gender: 'Feminino', images: [
     "https://i.ibb.co/sdqZb214/IMG-20251011-WA0129.jpg",
     "https://i.ibb.co/SDnm1tgW/image.png",
 ]},
 
-{ id: 28, name: 'Blue Sky 105ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Masculino', images: [
+{ id: 28, name: 'Blue Sky 105ml', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Masculino', images: [
     "https://i.ibb.co/PvPm3KdR/4-9.png",
     "https://i.ibb.co/fYrzpjDk/image.png",
 ]},
@@ -167,12 +167,12 @@ function App() {
     "https://i.ibb.co/KpQtVzKT/image.png",
 ]},
 
-{ id: 31, name: 'Alpine Homme Sport 100ml', category: 'Perfumes', oldPrice: 'R$ 250,00', price: 'R$ 220,00', priceValue: 220.00, gender: 'Masculino', images: [
+{ id: 31, name: 'Alpine Homme Sport 100ml', category: 'Perfumes', oldPrice: 'R$ 240,00', price: 'R$ 220,00', priceValue: 220.00, gender: 'Masculino', images: [
     "https://i.ibb.co/q3yWmwpH/4-11.png",
     "https://i.ibb.co/Mx2xTDVP/image.png",
 ]},
 
-{ id: 32, name: 'Athena 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Feminino', images: [
+{ id: 32, name: 'Athena 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 220,00', priceValue: 220.00, gender: 'Feminino', images: [
     "https://i.ibb.co/mr63z2t6/4-12.png",
     "https://i.ibb.co/PGPB0KdT/image.png",
 ]},
@@ -182,12 +182,12 @@ function App() {
     "https://i.ibb.co/DPX7f1bB/image.png",
 ]},
 
-{ id: 34, name: "La Collection D'antiquités 1910 100ml", category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Masculino', images: [
+{ id: 34, name: "La Collection D'antiquités 1910 100ml", category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Masculino', images: [
     "https://i.ibb.co/rKfbmFVw/5-2.png",
     "https://i.ibb.co/cSfNrHJ0/image.png",
 ]},
 
-{ id: 35, name: 'Ameerat Al Arab 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Feminino', images: [
+{ id: 35, name: 'Ameerat Al Arab 100ml', category: 'Perfumes', oldPrice: 'R$ 240,00', price: 'R$ 200,00', priceValue: 200.00, gender: 'Feminino', images: [
     "https://i.ibb.co/v6M59gy3/5-3.png",
     "https://i.ibb.co/9kx140qN/image.png",
 ]},
@@ -197,7 +197,7 @@ function App() {
     "https://i.ibb.co/pj17fRjW/image.png",
 ]},
 
-{ id: 37, name: 'Attar Al Wesal 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Masculino', images: [
+{ id: 37, name: 'Attar Al Wesal 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 220,00', priceValue: 220.00, gender: 'Masculino', images: [
     "https://i.ibb.co/RTx2GsHr/5-5.png",
     "https://i.ibb.co/C3dfMVkF/image.png",
 ]},
@@ -207,12 +207,12 @@ function App() {
     "https://i.ibb.co/vxDhK14F/image.png",
 ]},
 
-{ id: 39, name: 'Reem Asdaaf 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Feminino', images: [
+{ id: 39, name: 'Reem Asdaaf 100ml', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Feminino', images: [
     "https://i.ibb.co/C5MF5vzx/5-7.png",
     "https://i.ibb.co/B5FP3Qyt/image.png",
 ]},
 
-{ id: 40, name: 'Opulent Dubai 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Unisex', images: [
+{ id: 40, name: 'Opulent Dubai 100ml', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Unisex', images: [
     "https://i.ibb.co/2YMWTv9h/5-8.png",
     "https://i.ibb.co/gbJ8NSZK/image.png",
 ]},
@@ -222,17 +222,17 @@ function App() {
     "https://i.ibb.co/WvpKsWj8/image.png",
 ]},
 
-{ id: 42, name: 'Liquid Brun 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Masculino', images: [
+{ id: 42, name: 'Liquid Brun 100ml', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Masculino', images: [
     "https://i.ibb.co/pDzSXfQ/5-10.png",
     "https://i.ibb.co/s9Nk7ZXv/image.png",
 ]},
 
-{ id: 43, name: 'Royal Blend Nero 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Unisex', images: [
+{ id: 43, name: 'Royal Blend Nero 100ml', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Unisex', images: [
     "https://i.ibb.co/gQ2XM6C/4-7.png",
     "https://i.ibb.co/jppX5nL/image.png",
 ]},
 
-{ id: 44, name: 'Odyssee III 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Masculino', images: [
+{ id: 44, name: 'Odyssee III 100ml', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Masculino', images: [
     "https://i.ibb.co/wjytqMp/4-6.png",
     "https://i.ibb.co/HTVwBLvM/image.png",
 ]},
@@ -242,52 +242,52 @@ function App() {
     "https://i.ibb.co/W4t07Cf6/image.png",
 ]},
 
-{ id: 46, name: 'Your Touch For Women 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Feminino', images: [
+{ id: 46, name: 'Your Touch For Women 100ml', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Feminino', images: [
     "https://i.ibb.co/gxTYYGm/4-3.png",
     "https://i.ibb.co/cSysbpG0/image.png",
 ]},
 
-{ id: 47, name: 'Tag-Her 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Feminino', images: [
+{ id: 47, name: 'Tag-Her 100ml', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Feminino', images: [
     "https://i.ibb.co/Z68m4nkG/4-2.png",
     "https://i.ibb.co/BVTvqxHp/image.png",
 ]},
 
-{ id: 48, name: 'Ameerati 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Unisex', images: [
+{ id: 48, name: 'Ameerati 100ml', category: 'Perfumes', oldPrice: 'R$ 260,00', price: 'R$ 200,00', priceValue: 200.00, gender: 'Unisex', images: [
     "https://i.ibb.co/VYjG1QJT/3.png",
     "https://i.ibb.co/mVVTGVw0/image.png",
 ]},
 
-{ id: 49, name: 'Arabia Explorer 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Masculino', images: [
+{ id: 49, name: 'Arabia Explorer 100ml', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Masculino', images: [
     "https://i.ibb.co/CsmKTRzr/3-11.png",
     "https://i.ibb.co/cKCR8Dyk/image.png",
 ]},
 
-{ id: 50, name: 'Qaed Al Fursan 90ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Unisex', images: [
+{ id: 50, name: 'Qaed Al Fursan 90ml', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Unisex', images: [
     "https://i.ibb.co/Xk8bD1jP/3-10.png",
     "https://i.ibb.co/d4pW6m2c/image.png",
 ]},
 
-{ id: 51, name: 'Raneen 80ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Feminino', images: [
+{ id: 51, name: 'Raneen 80ml', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Feminino', images: [
     "https://i.ibb.co/CsHCSv6S/3-9.png",
     "https://i.ibb.co/zTCzbS54/image.png",
 ]},
 
-{ id: 52, name: 'Luxe Emerald 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Unisex', images: [
+{ id: 52, name: 'Luxe Emerald 100ml', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Unisex', images: [
     "https://i.ibb.co/v6vFqGKD/3-8.png",
     "https://i.ibb.co/PZchrK6D/image.png",
 ]},
 
-{ id: 53, name: 'Amber Rouge 80ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Feminino', images: [
+{ id: 53, name: 'Amber Rouge 80ml', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Feminino', images: [
     "https://i.ibb.co/BVYG9qHc/Imagem-do-Whats-App-de-2025-10-11-s-16-57-02-a50fcafd.jpg",
     "https://i.ibb.co/YTjm23D7/image.png",
 ]},
 
-{ id: 54, name: 'Tiramisu Caramel 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Unisex', images: [
+{ id: 54, name: 'Tiramisu Caramel 100ml', category: 'Perfumes', oldPrice: 'R$ 399,00', price: 'R$ 370,00', priceValue: 370.00, gender: 'Unisex', images: [
     "https://i.ibb.co/gbCq7xqk/3-6.png",
     "https://i.ibb.co/ybj9DvN/image.png",
 ]},
 
-{ id: 55, name: 'Jardin de Paris 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Feminino', images: [
+{ id: 55, name: 'Jardin de Paris 100ml', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Feminino', images: [
     "https://i.ibb.co/yBRZjYdW/3-5.png",
     "https://i.ibb.co/ZpTXTwjR/image.png",
 ]},
@@ -312,12 +312,12 @@ function App() {
     "https://i.ibb.co/LhJD00gj/image.png",
 ]},
 
-{ id: 60, name: '9am Dive 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Unisex', images: [
+{ id: 60, name: '9am Dive 100ml', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Unisex', images: [
     "https://i.ibb.co/8nHqFHkL/2-12.png",
     "https://i.ibb.co/5gz5mJKv/image.png",
 ]},
 
-{ id: 61, name: 'Tag Him Uomo Rosso 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Masculino', images: [
+{ id: 61, name: 'Tag Him Uomo Rosso 100ml', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Masculino', images: [
     "https://i.ibb.co/Hp9q5s53/2-11.png",
     "https://i.ibb.co/G4xmB0CR/image.png",
 ]},
@@ -328,83 +328,83 @@ function App() {
 ]},
 
 
-{ id: 63, name: 'Infinity Gold 105ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Feminino', images: [
+{ id: 63, name: 'Infinity Gold 105ml', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Feminino', images: [
     "https://i.ibb.co/rKC75mB3/2-9.png",
     "https://i.ibb.co/m5fGYg2M/image.png"
 ]},
 
-{ id: 64, name: 'Luxe NigthLife 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Unisex', images: [
+{ id: 64, name: 'Luxe NigthLife 100ml', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Unisex', images: [
     "https://i.ibb.co/bRYGyv7q/2-8.png",
     "https://i.ibb.co/CKTmY53J/image.png"
 ]},
 
-{ id: 65, name: '9PM Elixir 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Unisex', images: [
+{ id: 65, name: '9PM Elixir 100ml', category: 'Perfumes', oldPrice: 'R$ 410,00', price: 'R$ 380,00', priceValue: 380.00, gender: 'Unisex', images: [
     "https://i.ibb.co/27T2xSSq/2-7.png",
     "https://i.ibb.co/TDhLJy7h/image.png"
 ]},
 
-{ id: 66, name: 'Encode Mountain 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Unisex', images: [
+{ id: 66, name: 'Encode Mountain 100ml', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Unisex', images: [
     "https://i.ibb.co/m5wmXqDX/2-6.png",
     "https://i.ibb.co/xKqY37bH/image.png"
 ]},
 
-{ id: 67, name: 'Royal Blend 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Unisex', images: [
+{ id: 67, name: 'Royal Blend 100ml', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Unisex', images: [
     "https://i.ibb.co/Nkjrh4x/2-5.png",
     "https://i.ibb.co/1YnYtGr6/image.png"
 ]},
 
-{ id: 68, name: 'Narissa Rouge 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Feminino', images: [
+{ id: 68, name: 'Narissa Rouge 100ml', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Feminino', images: [
     "https://i.ibb.co/dsw6qzqW/2-4.png",
     "https://i.ibb.co/DHF3t74Q/image.png"
 ]},
 
-{ id: 69, name: 'Eftinaan 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Feminino', images: [
+{ id: 69, name: 'Eftinaan 100ml', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Feminino', images: [
     "https://i.ibb.co/93sP6tm7/2-3.png",
     "https://i.ibb.co/dstWcTm7/image.png"
 ]},
 
-{ id: 70, name: 'Teriaq 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Unisex', images: [
+{ id: 70, name: 'Teriaq 100ml', category: 'Perfumes', oldPrice: 'R$ 300,00', price: 'R$ 280,00', priceValue: 280.00, gender: 'Unisex', images: [
     "https://i.ibb.co/YYmQvrV/2-2.png",
     "https://i.ibb.co/hJXKrSYj/image.png"
 ]},
 
-{ id: 71, name: 'Exclusive Azure Fantasy 80ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Unisex', images: [
+{ id: 71, name: 'Exclusive Azure Fantasy 80ml', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Unisex', images: [
     "https://i.ibb.co/sdLbGy8W/1-11.png",
     "https://i.ibb.co/nsrYcDKk/image.png"
 ]},
 
-{ id: 72, name: "Bade'e Al Oud Honor & Glory 100ml", category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Unisex', images: [
+{ id: 72, name: "Bade'e Al Oud Honor & Glory 100ml", category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Unisex', images: [
     "https://i.ibb.co/PGc76ff3/1-10.png",
     "https://i.ibb.co/TMSzJ82s/image.png"
 ]},
 
-{ id: 73, name: "L'Aventure Intense 100ml", category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Masculino', images: [
+{ id: 73, name: "L'Aventure Intense 100ml", category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Masculino', images: [
     "https://i.ibb.co/S7ZCjfW2/1-9.png",
     "https://i.ibb.co/Q3G2qdvn/image.png"
 ]},
 
-{ id: 74, name: 'Magma Love 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Feminino', images: [
+{ id: 74, name: 'Magma Love 100ml', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Feminino', images: [
     "https://i.ibb.co/x8Mb9csK/1-8.png",
     "https://i.ibb.co/HT1YNctY/image.png"
 ]},
  
-{ id: 75, name: 'Solitude For Man 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Masculino', images: [
+{ id: 75, name: 'Solitude For Man 100ml', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Masculino', images: [
     "https://i.ibb.co/5Wss2jFM/1-7.png",
     "https://i.ibb.co/C5J86hHk/image.png"
 ]},
 
-{ id: 76, name: 'Zukhruf Black 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Masculino', images: [
+{ id: 76, name: 'Zukhruf Black 100ml', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Masculino', images: [
     "https://i.ibb.co/ymq6n9Sh/1-6.png",
     "https://i.ibb.co/Kp1t4Dpw/image.png"
     
 ]},
 
-{ id: 77, name: 'Attracione Men 25ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Masculino', images: [
+{ id: 77, name: 'Attracione Men 25ml', category: 'Perfumes', oldPrice: 'R$ 240,00', price: 'R$ 210,00', priceValue: 210.00, gender: 'Masculino', images: [
     "https://i.ibb.co/ZRyfYWRY/1-5.png",
     "https://i.ibb.co/KzqTTSjq/image.png"   
 ]},
 
-{ id: 78, name: 'Maahir Legacy 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Masculino', images: [
+{ id: 78, name: 'Maahir Legacy 100ml', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Masculino', images: [
     "https://i.ibb.co/Kp0C1jtD/1-4.png",
     "https://i.ibb.co/MD3kLyKt/image.png"
     
@@ -415,12 +415,12 @@ function App() {
     "https://i.ibb.co/0V6Zq2Yt/image.png"
 ]},
 
-{ id: 80, name: 'Olivia 80ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Feminino', images: [
+{ id: 80, name: 'Olivia 80ml', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Feminino', images: [
     "https://i.ibb.co/hRsXf6fx/1-2.png",
     "https://i.ibb.co/S4bh1LPz/image.png"
 ]},
 
-{ id: 82, name: 'Baroque Rouge 540 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Unisex', images: [
+{ id: 82, name: 'Baroque Rouge 540 100ml', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Unisex', images: [
     "https://i.ibb.co/qMbVCPpj/Imagem-do-Whats-App-de-2025-10-11-s-16-55-39-c7cfaa8d.jpg",
     "https://i.ibb.co/V06tDBdK/image.png"
 ]},
@@ -430,250 +430,282 @@ function App() {
     "https://i.ibb.co/5Wg89TGQ/image.png"
 ]},
 
-{ id: 84, name: 'Tharwah Gold 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Feminino', images: [
+{ id: 84, name: 'Tharwah Gold 100ml', category: 'Perfumes', oldPrice: 'R$ 399,00', price: 'R$ 340,00', priceValue: 340.00, gender: 'Feminino', images: [
     "https://i.ibb.co/MybBTYq3/Imagem-do-Whats-App-de-2025-10-11-s-16-53-36-67214651.jpg",
     "https://i.ibb.co/xSvZB4QR/image.png"
 ]},
 
-{ id: 86, name: 'Victorioso Fearless 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Masculino', images: [
+{ id: 86, name: 'Victorioso Fearless 100ml', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Masculino', images: [
     "https://i.ibb.co/gbRLtFC3/Imagem-do-Whats-App-de-2025-10-11-s-16-51-50-187e31c1.jpg",
     "https://i.ibb.co/g1JnzBR/image.png"
 ]},
 
-{ id: 88, name: 'Al Andaleeb Flora 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Feminino', images: [
+{ id: 88, name: 'Al Andaleeb Flora 100ml', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Feminino', images: [
     "https://i.ibb.co/VYW56H4m/10-9.png",
     "https://i.ibb.co/YTfL0MBb/image.png"
 ]},
 
-{ id: 89, name: "Bade'e Al Oud Amethyst 100ml", category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Unisex', images: [
+{ id: 89, name: "Bade'e Al Oud Amethyst 100ml", category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Unisex', images: [
     "https://i.ibb.co/S7RWKQZD/10-8.png",
     "https://i.ibb.co/3YFJFWJR/image.png"
 ]},
 
-{ id: 90, name: 'Candid Pour Homme 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Masculino', images: [
+{ id: 90, name: 'Candid Pour Homme 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 220,00', priceValue: 220.00, gender: 'Masculino', images: [
     "https://i.ibb.co/v04pkFc/10-7.png",
     "https://i.ibb.co/RGrVG6fW/image.png"
 ]},
 
-{ id: 91, name: "Bade'e Al Oud Oud for Glory 100ml", category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Unisex', images: [
+{ id: 91, name: "Bade'e Al Oud Oud for Glory 100ml", category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Unisex', images: [
     "https://i.ibb.co/wZHSG4Wg/10-6.png",
     "https://i.ibb.co/39DLKsHD/image.png"
 ]},
 
-{ id: 92, name: 'The Kingdom For Men 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Masculino', images: [
+{ id: 92, name: 'The Kingdom For Men 100ml', category: 'Perfumes', oldPrice: 'R$ 410,00', price: 'R$ 350,00', priceValue: 350.00, gender: 'Masculino', images: [
     "https://i.ibb.co/7dwbhFzg/10-5.png",
     "https://i.ibb.co/KRyVqp6/image.png"
 ]},
 
-{ id: 93, name: 'Shahd 100ml', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Feminino', images: [
+{ id: 93, name: 'Shahd 100ml', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Feminino', images: [
     "https://i.ibb.co/Lz7Xv7hd/10-3.png",
     "https://i.ibb.co/1tczryS7/image.png"
 ]},
 
-{ id: 94, name: 'Arabia Inter Rouge', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Unisex', images: [
+{ id: 94, name: 'Arabia Inter Rouge', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Unisex', images: [
     "https://i.ibb.co/hTqQzzc/10-2.png",
     "https://i.ibb.co/TDCJHTkt/image.png"
 ]},
 
-{ id: 95, name: 'Shagaf Al Ward', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Feminino', images: [
+{ id: 95, name: 'Shagaf Al Ward', category: 'Perfumes', oldPrice: 'R$ 230,00', price: 'R$ 180,00', priceValue: 180.00, gender: 'Feminino', images: [
     "https://i.ibb.co/S4RgD7PP/9.png",
     "https://i.ibb.co/W4kTP4JT/image.png"
 ]},
 
-{ id: 96, name: 'Tiramisu Coco', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Unisex', images: [
+{ id: 96, name: 'Tiramisu Coco', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Unisex', images: [
     "https://i.ibb.co/9HGbq00q/9-11.png",
     "https://i.ibb.co/svpQ2QgW/image.png"
 ]},
 
-{ id: 98, name: 'Spectre Ghost', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Masculino', images: [
+{ id: 98, name: 'Spectre Ghost', category: 'Perfumes', oldPrice: 'R$ 380,00', price: 'R$ 320,00', priceValue: 320.00, gender: 'Masculino', images: [
     "https://i.ibb.co/VcysRWb1/9-9.png",
     "https://i.ibb.co/35Rmvq8B/image.png"
 ]},
 
-{ id: 100, name: 'Niche Emarati Al Dana', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Unisex', images: [
+{ id: 100, name: 'Niche Emarati Al Dana', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Unisex', images: [
     "https://i.ibb.co/23whQH0d/9-7.png",
     "https://i.ibb.co/fYCMRCTr/image.png"
 ]},
 
-{ id: 101, name: 'La Bella', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Feminino', images: [
+{ id: 101, name: 'La Bella', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 200,00', priceValue: 200.00, gender: 'Feminino', images: [
     "https://i.ibb.co/hR4rtTCF/9-6.png",
     "https://i.ibb.co/Qv5SnMgZ/image.png"
 ]},
 
-{ id: 102, name: 'Maître de Blue', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Masculino', images: [
+{ id: 102, name: 'Maître de Blue', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Masculino', images: [
     "https://i.ibb.co/W4zH8Ywz/9-5.png",
     "https://i.ibb.co/4gCJHnDh/image.png"
 ]},
 
-{ id: 103, name: 'Marina De Bourbon Princesse', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Feminino', images: [
+{ id: 103, name: 'Marina De Bourbon Princesse', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Feminino', images: [
     "https://i.ibb.co/9kLTkMyC/9-4.png",
     "https://i.ibb.co/HDwff9dq/image.png"
 ]},
 
-{ id: 104, name: 'Club de Nuit Untold', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Unisex', images: [
+{ id: 104, name: 'Club de Nuit Untold', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Unisex', images: [
     "https://i.ibb.co/Q30wwjGn/9-3.png",
     "https://i.ibb.co/LD2TpsjL/image.png"
 ]},
 
-{ id: 105, name: 'Naif', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Unisex', images: [
+{ id: 105, name: 'Naif', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Unisex', images: [
     "https://i.ibb.co/s0jTPs3/9-2.png",
     "https://i.ibb.co/R44QB4v1/image.png"
 ]},
 
-{ id: 106, name: 'Fakhar Black', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Masculino', images: [
+{ id: 106, name: 'Fakhar Black', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 220,00', priceValue: 220.00, gender: 'Masculino', images: [
     "https://i.ibb.co/bjd8Fj1y/8.png",
     "https://i.ibb.co/cc3p8dMg/image.png"
 ]},
 
-{ id: 107, name: 'Nebras', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Unisex', images: [
+{ id: 107, name: 'Nebras', category: 'Perfumes', oldPrice: 'R$ 320,00', price: 'R$ 290,00', priceValue: 290.00, gender: 'Unisex', images: [
     "https://i.ibb.co/21TrmhjG/8-11.png",
     "https://i.ibb.co/Lhtrr46M/image.png"
 ]},
 
-{ id: 108, name: 'Amnia', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Unisex', images: [
+{ id: 108, name: 'Amnia', category: 'Perfumes', oldPrice: 'R$ 340,00', price: 'R$ 290,00', priceValue: 290.00, gender: 'Unisex', images: [
     "https://i.ibb.co/rKQYdSwJ/8-10.png",
     "https://i.ibb.co/cKRDDcqb/image.png"
 ]},
 
-{ id: 109, name: 'Crysta Oud', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Masculino', images: [
+{ id: 109, name: 'Crysta Oud', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Masculino', images: [
     "https://i.ibb.co/HLw6nDXz/8-9.png",
     "https://i.ibb.co/yc0j080g/image.png"
 ]},
 
-{ id: 110, name: 'La Voie', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Feminino', images: [
+{ id: 110, name: 'La Voie', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 220,00', priceValue: 220.00, gender: 'Feminino', images: [
     "https://i.ibb.co/j9QjszzR/8-8.png",
     "https://i.ibb.co/pjZr1R13/image.png"
 ]},
 
-{ id: 111, name: 'Kiaana Angel', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Feminino', images: [
+{ id: 111, name: 'Kiaana Angel', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Feminino', images: [
     "https://i.ibb.co/hJ3Gs9PJ/8-7.png",
     "https://i.ibb.co/kgwY5thF/image.png"
 ]},
 
-{ id: 112, name: 'Art of Arabia III', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Unisex', images: [
+{ id: 112, name: 'Art of Arabia III', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Unisex', images: [
     "https://i.ibb.co/JW7SKzFj/8-6.png",
     "https://i.ibb.co/nsKHBR8B/image.png"
 ]},
 
-{ id: 113, name: 'La Vie Est Belle', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Feminino', images: [
+{ id: 113, name: 'La Vie Est Belle', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Feminino', images: [
     "https://i.ibb.co/9mb4N19m/8-4.png",
     "https://i.ibb.co/CpQ9mg5M/image.png"
 ]},
 
-{ id: 114, name: 'Silver Scent', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Masculino', images: [
+{ id: 114, name: 'Silver Scent', category: 'Perfumes', oldPrice: 'R$ 300,00', price: 'R$ 260,00', priceValue: 260.00, gender: 'Masculino', images: [
     "https://i.ibb.co/W4KjZNXy/8-3.png",
     "https://i.ibb.co/350Bbqm6/image.png"
 ]},
 
-{ id: 115, name: 'Rabab Blue', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Unisex', images: [
+{ id: 115, name: 'Rabab Blue', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Unisex', images: [
     "https://i.ibb.co/zKxGFBJ/8-2.png",
     "https://i.ibb.co/pBPjR8Kj/image.png"
 ]},
 
-{ id: 116, name: 'Éclair Affair', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Feminino', images: [
+{ id: 116, name: 'Éclair Affair', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Feminino', images: [
     "https://i.ibb.co/FLtJrX9T/7-11.png",
     "https://i.ibb.co/fzz60pq9/image.png"
 ]},
 
-{ id: 117, name: 'Ishq Al Shuyukh Silver', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Unisex', images: [
+{ id: 117, name: 'Ishq Al Shuyukh Silver', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Unisex', images: [
     "https://i.ibb.co/FkTxVvmD/7-10.png",
     "https://i.ibb.co/qLs1Qkrf/image.png"
 ]},
 
-{ id: 118, name: 'Atheeri', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Feminino', images: [
+{ id: 118, name: 'Atheeri', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Feminino', images: [
     "https://i.ibb.co/YBNy4qhZ/7-9.png",
     "https://i.ibb.co/nMH0wvjb/image.png"
 ]},
 
-{ id: 119, name: 'Victoria', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Feminino', images: [
+{ id: 119, name: 'Victoria', category: 'Perfumes', oldPrice: 'R$ 399,00', price: 'R$ 350,00', priceValue: 350.00, gender: 'Feminino', images: [
     "https://i.ibb.co/Hp1R5M8x/7-8.png",
     "https://i.ibb.co/vGVGqHD/image.png"
 ]},
 
-{ id: 120, name: 'Pisa', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Masculino', images: [
+{ id: 120, name: 'Pisa', category: 'Perfumes', oldPrice: 'R$ 530,00', price: 'R$ 480,00', priceValue: 480.00, gender: 'Masculino', images: [
     "https://i.ibb.co/r29hKqCg/7-7.png",
     "https://i.ibb.co/NgGZZL3m/image.png"
 ]},
 
-{ id: 121, name: 'Vulcan Feu', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Unisex', images: [
+{ id: 121, name: 'Vulcan Feu', category: 'Perfumes', oldPrice: 'R$ 429,00', price: 'R$ 380,00', priceValue: 380.00, gender: 'Unisex', images: [
     "https://i.ibb.co/dwgvFNmN/7-6.png",
     "https://i.ibb.co/vCG6sMsV/image.png"
 ]},
 
-{ id: 122, name: 'Club de Nuit Sillage', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Unisex', images: [
+{ id: 122, name: 'Club de Nuit Sillage', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Unisex', images: [
     "https://i.ibb.co/W4SVP9LX/7-5.png",
     "https://i.ibb.co/wNpqMHvf/image.png"
 ]},
 
-{ id: 123, name: 'Panther Pour Homme', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Masculino', images: [
+{ id: 123, name: 'Panther Pour Homme', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Masculino', images: [
     "https://i.ibb.co/s9wqq5Jh/7-4.png",
     "https://i.ibb.co/hJrCR2ZW/image.png"
 ]},
 
-{ id: 124, name: 'Turathi Electric', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Unisex', images: [
+{ id: 124, name: 'Turathi Electric', category: 'Perfumes', oldPrice: 'R$ 370,00', price: 'R$ 320,00', priceValue: 320.00, gender: 'Unisex', images: [
     "https://i.ibb.co/3mN5WCF0/7-3.png",
     "https://i.ibb.co/VY5xQXLR/image.png"
 ]},
 
-{ id: 125, name: 'Khanjar', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Unisex', images: [
+{ id: 125, name: 'Khanjar', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Unisex', images: [
     "https://i.ibb.co/Hf0WLwjn/7-2.png",
     "https://i.ibb.co/Fqg7YKsw/image.png"
 ]},
 
-{ id: 126, name: 'Badee Al Oud Noble Blush', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Feminino', images: [
+{ id: 126, name: 'Badee Al Oud Noble Blush', category: 'Perfumes', oldPrice: 'R$ 300,00', price: 'R$ 260,00', priceValue: 260.00, gender: 'Feminino', images: [
     "https://i.ibb.co/KxB0CsmT/6.png",
     "https://i.ibb.co/nNFkBjXw/image.png"
 ]},
 
-{ id: 127, name: 'Qaed Al Fursan Untamed', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Masculino', images: [
+{ id: 127, name: 'Qaed Al Fursan Untamed', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Masculino', images: [
     "https://i.ibb.co/Z1wQWcJT/6-11.png",
     "https://i.ibb.co/GvTLGwkb/image.png"
 ]},
 
-{ id: 128, name: 'Kiaana Crush', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Feminino', images: [
+{ id: 128, name: 'Kiaana Crush', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Feminino', images: [
     "https://i.ibb.co/Q7fmJz8B/6-10.png",
     "https://i.ibb.co/r2GJTpdf/image.png"
 ]},
 
-{ id: 129, name: 'Baroque Rouge Extrait', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Feminino', images: [
+{ id: 129, name: 'Baroque Rouge Extrait', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 200,00', priceValue: 200.00, gender: 'Feminino', images: [
     "https://i.ibb.co/NwLd018/6-9.png",
      "https://i.ibb.co/VYrcPzWs/image.png"
 ]},
 
-{ id: 130, name: 'Club De Nuit Maleka', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Feminino', images: [
+{ id: 130, name: 'Club De Nuit Maleka', category: 'Perfumes', oldPrice: 'R$ 395,00', price: 'R$ 350,00', priceValue: 350.00, gender: 'Feminino', images: [
     "https://i.ibb.co/LhYRsdv5/6-8.png",
     "https://i.ibb.co/3mL1wMWG/image.png"
    
 ]},
 
-{ id: 131, name: 'Eclaire', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Feminino', images: [
+{ id: 131, name: 'Eclaire', category: 'Perfumes', oldPrice: 'R$ 310,00', price: 'R$ 270,00', priceValue: 270.00, gender: 'Feminino', images: [
     "https://i.ibb.co/gLCgrJcX/6-7.png",
     "https://i.ibb.co/5Wq52HHy/image.png"
 ]},
 
-{ id: 132, name: 'Mayar Cherry Intense', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Feminino', images: [
+{ id: 132, name: 'Mayar Cherry Intense', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 240,00', priceValue: 240.00, gender: 'Feminino', images: [
     "https://i.ibb.co/39jWbKpd/6-6.png",
     "https://i.ibb.co/hF2VDc8M/image.png"
 ]},
 
-{ id: 133, name: 'Oud Saffron', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Masculino', images: [
+{ id: 133, name: 'Oud Saffron', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Masculino', images: [
     "https://i.ibb.co/bgpHVjRg/6-5.png",
     "https://i.ibb.co/bp1n5NV/image.png"
 ]},
 
-{ id: 134, name: 'Club de Nuit Blue Iconic', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Masculino', images: [
+{ id: 134, name: 'Club de Nuit Blue Iconic', category: 'Perfumes', oldPrice: 'R$ 380,00', price: 'R$ 350,00', priceValue: 350.00, gender: 'Masculino', images: [
     "https://i.ibb.co/PGnW056C/6-4.png",
     "https://i.ibb.co/rBjt70b/image.png"
 ]},
 
-{ id: 135, name: 'Baroque Rouge', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Feminino', images: [
+{ id: 135, name: 'Baroque Rouge', category: 'Perfumes', oldPrice: 'R$ 260,00',price: 'R$ 200,00', priceValue: 200.00, gender: 'Feminino', images: [
     "https://i.ibb.co/ZzxshJQs/6-3.png",
     "https://i.ibb.co/5WW5R4rw/image.png"
 ]},
 
-{ id: 136, name: 'Afeef', category: 'Perfumes', oldPrice: 'R$ 280,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Unisex', images: [
+{ id: 136, name: 'Afeef', category: 'Perfumes', oldPrice: 'R$ 400,00', price: 'R$ 320,00', priceValue: 320.00, gender: 'Unisex', images: [
     "https://i.ibb.co/GvZ7s1L2/5-11.png",
     "https://i.ibb.co/v4Nv3rZv/image.png"
+]},
+{ id: 137, name: 'Royal Bleu', category: 'Perfumes', oldPrice: 'R$ 590,00', price: 'R$ 500,00', priceValue: 550.00, gender: 'Unisex', images: [
+    "https://i.ibb.co/vxtYm9jC/image.png",
+    "https://i.ibb.co/1G936p1Z/image.png"
+]},
+{ id: 138, name: 'Hawas Black', category: 'Perfumes', oldPrice: 'R$ 400,00', price: 'R$ 320,00', priceValue: 320.00, gender: 'Masculino', images: [
+    "https://i.ibb.co/21r42N92/image.png",
+    "https://i.ibb.co/BKH5HrPy/image.png"
+]},
+{ id: 139, name: 'Hayaati', category: 'Perfumes', oldPrice: 'R$ 300,00', price: 'R$ 220,00', priceValue: 220.00, gender: 'Unisex', images: [
+    "https://i.ibb.co/ycpf1N5z/image.png",
+    "https://i.ibb.co/WpnfHqPG/image.png"
+]},
+{ id: 140, name: 'Léonie', category: 'Perfumes', oldPrice: 'R$ 300,00', price: 'R$ 220,00', priceValue: 220.00, gender: 'Feminino', images: [
+    "https://i.ibb.co/5x4Yk45Y/image.png",
+    "https://i.ibb.co/zzL0Pgz/image.png"
+]},
+{ id: 141, name: 'Yeah!', category: 'Perfumes', oldPrice: 'R$ 310,00', price: 'R$ 220,00', priceValue: 220.00, gender: 'Masculino', images: [
+    "https://i.ibb.co/XZdX4Xgf/image.png",
+    "https://i.ibb.co/N2xT5KWt/image.png"
+]},
+{ id: 142, name: 'Sultan Al Lail', category: 'Perfumes', oldPrice: 'R$ 210,00', price: 'R$ 190,00', priceValue: 190.00, gender: 'Masculino', images: [
+    "https://i.ibb.co/LXvF8XTq/image.png",
+    "https://i.ibb.co/TQDLSm5/image.png"
+]},
+{ id: 143, name: 'Now', category: 'Perfumes', oldPrice: 'R$ 270,00', price: 'R$ 220,00', priceValue: 220.00, gender: 'Masculino', images: [
+    "https://i.ibb.co/vCYLLpF1/image.png",
+    "https://i.ibb.co/WNJ7Mz4k/image.png"
+]},
+{ id: 144, name: 'Club de Nuit Intense Man', category: 'Perfumes', oldPrice: 'R$ 320,00', price: 'R$ 290,00', priceValue: 290.00, gender: 'Masculino', images: [
+    "https://i.ibb.co/SXVkHPvM/image.png",
+    "https://i.ibb.co/b5psrdgh/image.png"
 ]},
 
 
@@ -682,7 +714,7 @@ function App() {
 
   ];
 
-  const idsDosProdutosEmAlta = [1, 2, 6, 7, 18, 24, 39, 52, 63, 74, 85, 97, 108, 121, 133];
+  const idsDosProdutosEmAlta = [13,22,24,122, 120, 67, 73, 18, 24, 39, 52, 63, 74, 85, 97, 108, 121, 133,144,143,142,141,140,139,138];
   const produtosEmAlta = todosOsProdutos.filter(p => idsDosProdutosEmAlta.includes(p.id));
 
   const filteredProducts = useMemo(() => {
