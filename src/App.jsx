@@ -373,7 +373,7 @@ function App() {
     "https://i.ibb.co/nsrYcDKk/image.png"
 ]},
 
-{ id: 72, name: "Bade'e Al Oud Honor & Glory 100ml", category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Unisex', images: [
+{ id: 72, name: "Bade'e Al Oud Honor & Glory 100ml", category: 'Perfumes', oldPrice: 'R$ 320,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Unisex', images: [
     "https://i.ibb.co/PGc76ff3/1-10.png",
     "https://i.ibb.co/TMSzJ82s/image.png"
 ]},
@@ -575,7 +575,7 @@ function App() {
     "https://i.ibb.co/fzz60pq9/image.png"
 ]},
 
-{ id: 117, name: 'Ishq Al Shuyukh Silver', category: 'Perfumes', oldPrice: 'R$ 0,00', price: 'R$ 0,00', priceValue: 0.00, gender: 'Unisex', images: [
+{ id: 117, name: 'Ishq Al Shuyukh Silver', category: 'Perfumes', oldPrice: 'R$ 290,00', price: 'R$ 250,00', priceValue: 250.00, gender: 'Unisex', images: [
     "https://i.ibb.co/FkTxVvmD/7-10.png",
     "https://i.ibb.co/qLs1Qkrf/image.png"
 ]},
